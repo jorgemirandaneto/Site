@@ -2,19 +2,19 @@ const Orders = [
     {
         productName: 'Tutorial js',
         productNumber: '0001',
-        playmantStatus: 'Due',
+        paymantStatus: 'Due',
         status: 'Pending'
     },
     {
         productName: 'Tutorial js',
         productNumber: '0001',
-        playmantStatus: 'Due',
-        status: 'Pending'
+        paymantStatus: 'Due',
+        status: 'Declined'
     },
     {
         productName: 'Tutorial flex-box',
         productNumber: '0003',
-        playmantStatus: 'Paid',
+        paymantStatus: 'Paid',
         status: 'Active'
     },
 ]
